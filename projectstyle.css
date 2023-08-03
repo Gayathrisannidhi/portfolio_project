@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+
+}
+h1{
+    color: white;
+}
+header{
+    background-color: black;
+    height:100px;
+    padding: 20px;
+}
+UL LI{
+display:inline;
+color: rgb(196, 119, 3);
+padding:20px;
+}
+UL LI a{
+    color: bisque;
+    text-decoration: none;
+}
+
+#home img{
+ height: 200px;
+ width: 200px;
+ border-radius: 50%;
+}
+#portfolio{
+    background-color: pink;
+}
+footer p{
+    background-color: beige;
+}
